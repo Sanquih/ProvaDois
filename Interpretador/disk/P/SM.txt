@@ -1,0 +1,11 @@
+-----------------------------------------------
+Código compilado correctamente
+MAIOR é 4
+Desvio desde 10 a 11 feito
+Variável MAIOR=4 atualizada
+Variável MAIOR=3 atualizada
+Variável MAIOR=1 salvada
+Variável D=2 salvada
+Variável C=4 salvada
+Variável B=3 salvada
+Variável A=1 salvada
